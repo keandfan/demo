@@ -1,2 +1,2 @@
 # demo
-#演示地址https://github.com/keandfan/demo
+#演示地址https://keandfan.github.io/demo
